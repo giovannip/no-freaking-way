@@ -1,0 +1,52 @@
+[
+  {
+    "id": "dado-rpg",
+    "questionText": "Quantos lados tem um dado de RPG tradicional (cubos com números 1–6)?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "minutos-hora",
+    "questionText": "Quantos minutos há em uma hora?",
+    "correctAnswer": 60
+  },
+  {
+    "id": "dias-semana",
+    "questionText": "Quantos dias tem uma semana comum?",
+    "correctAnswer": 7
+  },
+  {
+    "id": "lados-triangulo",
+    "questionText": "Quantos lados tem um triângulo?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "olhos-humanos",
+    "questionText": "Quantos olhos tem um humano típico?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "dedos-maos",
+    "questionText": "Quantos dedos nas duas mãos (contando polegares)?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "meses-ano",
+    "questionText": "Quantos meses tem um ano civil comum?",
+    "correctAnswer": 12
+  },
+  {
+    "id": "planetas-sistema-antigo",
+    "questionText": "Quantos planetas clássicos (sem Plutão) costumavam ensinar no sistema solar?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "bits-byte",
+    "questionText": "Quantos bits tem um byte?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "sides-square",
+    "questionText": "Quantos lados tem um quadrado?",
+    "correctAnswer": 4
+  }
+]

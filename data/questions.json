@@ -1,0 +1,158 @@
+[
+  {
+    "id": "dado-rpg",
+    "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29vbGluZ29weXhoY2gyZGlkcHZncGlueDgzNXQxbG43bzZ4N2RldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGoZVlR9naOZCiRLSy/giphy.gif",
+    "questionText": "Quantos lados tem um dado tradicional de RPG d6?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "dias-ano",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos dias tem um ano normal?",
+    "correctAnswer": 365
+  },
+  {
+    "id": "metros-everest",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Qual a altura aproximada do Monte Everest em metros?",
+    "correctAnswer": 8849
+  },
+  {
+    "id": "temperatura-ebulicao-agua",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "A quantos graus Celsius a água ferve ao nível do mar?",
+    "correctAnswer": 100
+  },
+  {
+    "id": "ossos-corpo-humano",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos ossos possui o corpo humano adulto?",
+    "correctAnswer": 206
+  },
+  {
+    "id": "velocidade-luz",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Qual a velocidade da luz em km/s?",
+    "correctAnswer": 300000
+  },
+  {
+    "id": "planetas-sistema-solar",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos planetas existem no Sistema Solar?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "idade-universo",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Qual a idade aproximada do universo em bilhões de anos?",
+    "correctAnswer": 13.8
+  },
+  {
+    "id": "altura-girafa",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Qual a altura média de uma girafa adulta em metros?",
+    "correctAnswer": 5.5
+  },
+  {
+    "id": "batimentos-baleia-azul",
+    "image": "https://media.giphy.com/media/l41YuwS5IipGquPmM/giphy.gif",
+    "questionText": "Quantos batimentos por minuto pode ter o coração de uma baleia-azul em repouso?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "teclas-piano",
+    "image": "https://media.giphy.com/media/3o7TKsQ8UQ0Hxu8xVe/giphy.gif",
+    "questionText": "Quantas teclas possui um piano tradicional?",
+    "correctAnswer": 88
+  },
+  {
+    "id": "altura-maior-humano",
+    "image": "https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif",
+    "questionText": "Qual era a altura do homem mais alto já registrado em metros?",
+    "correctAnswer": 2.72
+  },
+  {
+    "id": "km-mariana",
+    "image": "https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif",
+    "questionText": "Qual a profundidade aproximada da Fossa das Marianas em metros?",
+    "correctAnswer": 11000
+  },
+  {
+    "id": "anos-cao-mais-velho",
+    "image": "https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif",
+    "questionText": "Qual a idade do cachorro mais velho já registrado em anos?",
+    "correctAnswer": 31
+  },
+  {
+    "id": "peso-elefante-africano",
+    "image": "https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif",
+    "questionText": "Qual o peso médio de um elefante africano macho em quilos?",
+    "correctAnswer": 6000
+  },
+  {
+    "id": "populacao-brasil",
+    "image": "https://media.giphy.com/media/26gsspfbt1HfVQ9va/giphy.gif",
+    "questionText": "Qual a população aproximada do Brasil em milhões de habitantes?",
+    "correctAnswer": 203
+  },
+  {
+    "id": "temperatura-sol",
+    "image": "https://media.giphy.com/media/3o6ZsY8lV0Y7Gg6sxy/giphy.gif",
+    "questionText": "Qual a temperatura aproximada da superfície do Sol em graus Celsius?",
+    "correctAnswer": 5500
+  },
+  {
+    "id": "tempo-recorde-cubo-magico",
+    "image": "https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif",
+    "questionText": "Qual o recorde mundial aproximado de resolução do cubo mágico 3x3 em segundos?",
+    "correctAnswer": 3.1
+  },
+  {
+    "id": "anos-tartaruga-galapagos",
+    "image": "https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif",
+    "questionText": "Quantos anos pode viver uma tartaruga-das-galápagos?",
+    "correctAnswer": 150
+  },
+  {
+    "id": "dentes-tubarao",
+    "image": "https://media.giphy.com/media/3o7TKRBB3E7IdVNLm8/giphy.gif",
+    "questionText": "Quantos dentes um tubarão pode perder durante a vida?",
+    "correctAnswer": 30000
+  },
+  {
+    "id": "andares-burj-khalifa",
+    "image": "https://media.giphy.com/media/26uf9QPzzlKPvQG5a/giphy.gif",
+    "questionText": "Quantos andares possui o Burj Khalifa?",
+    "correctAnswer": 163
+  },
+  {
+    "id": "altura-burj-khalifa",
+    "image": "https://media.giphy.com/media/3o6Zth7pE7aPKqAEEM/giphy.gif",
+    "questionText": "Qual a altura do Burj Khalifa em metros?",
+    "correctAnswer": 828
+  },
+  {
+    "id": "fps-olho-humano",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos quadros por segundo o olho humano consegue perceber aproximadamente?",
+    "correctAnswer": 60
+  },
+  {
+    "id": "recorde-pulo-alto",
+    "image": "https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif",
+    "questionText": "Qual o recorde mundial de salto em altura masculino em metros?",
+    "correctAnswer": 2.45
+  },
+  {
+    "id": "peso-lingua-baleia-azul",
+    "image": "https://media.giphy.com/media/l4FGmO3MZkGng9Bp6/giphy.gif",
+    "questionText": "Quanto pesa aproximadamente a língua de uma baleia-azul em quilos?",
+    "correctAnswer": 2700
+  },
+  {
+    "id": "comprimento-onibus-londres",
+    "image": "https://media.giphy.com/media/xTiTnuhyBF54B852nK/giphy.gif",
+    "questionText": "Qual o comprimento aproximado de um ônibus londrino de dois andares em metros?",
+    "correctAnswer": 11
+  }
+]
