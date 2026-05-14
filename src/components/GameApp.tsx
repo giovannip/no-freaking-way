@@ -433,42 +433,48 @@ export function GameApp({
 
           {myTurn && (
             <>
-              <div className="rounded-2xl border border-brand/40 bg-[#23262d] p-4">
-                <p className="mb-2 text-xs font-semibold text-zinc-400">
-                  Sua vez — palpite
-                </p>
-                <input
-                  inputMode="decimal"
-                  className="w-full rounded-lg bg-[#1e1f22] px-3 py-3 text-2xl font-semibold outline-none ring-0 placeholder:text-zinc-600"
-                  placeholder="0,00"
-                  value={guessRaw}
-                  onChange={(e) => setGuessRaw(e.target.value)}
-                />
-                <p className="mt-1 text-xs text-zinc-500">
-                  Use vírgula para decimais
-                </p>
-                {game.lastGuess !== null && (
-                  <p className="mt-2 rounded-lg border border-amber-500/40 bg-amber-500/10 px-2 py-1 text-xs text-amber-200">
-                    Deve ser maior que{" "}
-                    <strong>{formatPtBrNumber(game.lastGuess)}</strong> (último
-                    palpite)
-                  </p>
-                )}
-              </div>
-
-              <button
-                type="button"
-                disabled={!canConfirmGuess}
-                className="flex w-full items-center justify-center gap-2 rounded-xl bg-brand py-3 text-sm font-semibold text-white disabled:cursor-not-allowed disabled:opacity-40"
-                onClick={() => {
+              <form
+                className="flex flex-col gap-3"
+                onSubmit={(e) => {
+                  e.preventDefault();
+                  if (!canConfirmGuess) return;
                   const n = parsePtBrNumber(guessRaw);
-                  if (n === null || !canConfirmGuess) return;
+                  if (n === null) return;
                   void send({ type: "CONFIRM_GUESS", value: n });
                   setGuessRaw("");
                 }}
               >
-                Confirmar palpite
-              </button>
+                <div className="rounded-2xl border border-brand/40 bg-[#23262d] p-4">
+                  <p className="mb-2 text-xs font-semibold text-zinc-400">
+                    Sua vez — palpite
+                  </p>
+                  <input
+                    inputMode="decimal"
+                    className="w-full rounded-lg bg-[#1e1f22] px-3 py-3 text-2xl font-semibold outline-none ring-0 placeholder:text-zinc-600"
+                    placeholder="0,00"
+                    value={guessRaw}
+                    onChange={(e) => setGuessRaw(e.target.value)}
+                  />
+                  <p className="mt-1 text-xs text-zinc-500">
+                    Use vírgula para decimais
+                  </p>
+                  {game.lastGuess !== null && (
+                    <p className="mt-2 rounded-lg border border-amber-500/40 bg-amber-500/10 px-2 py-1 text-xs text-amber-200">
+                      Deve ser maior que{" "}
+                      <strong>{formatPtBrNumber(game.lastGuess)}</strong>{" "}
+                      (último palpite)
+                    </p>
+                  )}
+                </div>
+
+                <button
+                  type="submit"
+                  disabled={!canConfirmGuess}
+                  className="flex w-full items-center justify-center gap-2 rounded-xl bg-brand py-3 text-sm font-semibold text-white disabled:cursor-not-allowed disabled:opacity-40"
+                >
+                  Confirmar palpite
+                </button>
+              </form>
 
               {canNemFudendo && (
                 <>

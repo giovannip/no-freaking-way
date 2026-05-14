@@ -56,6 +56,33 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
+/** Mantém a ordem de turnos; quem começa a nova rodada é o jogador depois do que estava na vez ao terminar a anterior. */
+function advanceStarterForNextRound(game: GameModel, playerIds: string[]) {
+  const currentAtEnd =
+    game.turnOrder.length > 0
+      ? game.turnOrder[game.turnIndex % game.turnOrder.length]!
+      : null;
+  const reordered: string[] = [];
+  for (const id of game.turnOrder) {
+    if (playerIds.includes(id)) reordered.push(id);
+  }
+  for (const id of playerIds) {
+    if (!reordered.includes(id)) reordered.push(id);
+  }
+  game.turnOrder = reordered;
+  const n = game.turnOrder.length;
+  if (n === 0) {
+    game.turnIndex = 0;
+    return;
+  }
+  if (currentAtEnd && reordered.includes(currentAtEnd)) {
+    const idx = reordered.indexOf(currentAtEnd);
+    game.turnIndex = (idx + 1) % n;
+  } else {
+    game.turnIndex = 0;
+  }
+}
+
 function initialGame(): GameModel {
   return {
     phase: "lobby",
@@ -381,8 +408,7 @@ export function dispatchAction(
     }
     game.currentRound += 1;
     const ids = Object.keys(game.players);
-    game.turnOrder = shuffle(ids);
-    game.turnIndex = 0;
+    advanceStarterForNextRound(game, ids);
     game.lastGuess = null;
     game.lastGuessUserId = null;
     game.resolveLines = [];
