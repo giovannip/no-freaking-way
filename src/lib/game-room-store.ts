@@ -241,7 +241,7 @@ function finishRoundWithWinner(
   reason: string,
 ) {
   game.scores[winnerId] = (game.scores[winnerId] ?? 0) + 1;
-  game.resolveLines = [`Resposta: ${answer}`, reason];
+  game.resolveLines = [reason];
   game.pointWinnerIds = [winnerId];
   game.phase = "ranking";
 }
@@ -261,6 +261,8 @@ function handleGuess(game: GameModel, uid: string, raw: number) {
 
   const answer = game.correctAnswer;
   if (answer !== null && raw === answer) {
+    game.lastGuess = raw;
+    game.lastGuessUserId = uid;
     finishRoundWithWinner(
       game,
       uid,

@@ -499,13 +499,83 @@ export function GameApp({
 
       {game.phase === "ranking" && (
         <div className="mx-auto flex max-w-md flex-col gap-4">
-          <div className="rounded-2xl bg-[#23262d] p-4">
-            {game.resolveLines.map((line, i) => (
-              <p key={i} className="mb-2 text-sm last:mb-0">
-                {line}
+          {game.correctAnswer !== null && (
+            <div className="overflow-hidden rounded-2xl border border-brand/35 bg-gradient-to-b from-[#2a1518] to-[#1a1b1f] shadow-lg shadow-brand/10">
+              <p className="px-4 pt-4 text-center text-xs font-bold uppercase tracking-[0.2em] text-brand-soft">
+                Resposta correta
               </p>
-            ))}
-          </div>
+              <p className="px-4 pb-1 text-center text-5xl font-black tabular-nums tracking-tight text-white sm:text-6xl">
+                {formatPtBrNumber(game.correctAnswer)}
+              </p>
+              {game.pointWinnerIds[0] ? (
+                <p className="px-4 pb-3 text-center text-sm font-semibold text-brand-soft">
+                  +1 ponto:{" "}
+                  {displayNameOf(
+                    game.players.find((p) => p.id === game.pointWinnerIds[0]) ?? {
+                      displayName: "…",
+                    },
+                  )}
+                </p>
+              ) : (
+                <div className="pb-2" />
+              )}
+              {game.lastGuess !== null && (
+                <p className="border-t border-zinc-700/80 px-4 py-3 text-center text-sm text-zinc-400">
+                  Último palpite na mesa:{" "}
+                  <span className="font-semibold text-zinc-200">
+                    {formatPtBrNumber(game.lastGuess)}
+                  </span>
+                  {game.lastGuessUserId ? (
+                    <>
+                      {" "}
+                      <span className="text-zinc-500">—</span>{" "}
+                      <span className="text-zinc-300">
+                        {displayNameOf(
+                          game.players.find((p) => p.id === game.lastGuessUserId) ?? {
+                            displayName: "…",
+                          },
+                        )}
+                      </span>
+                    </>
+                  ) : null}
+                </p>
+              )}
+            </div>
+          )}
+
+          {game.questionText && (
+            <div className="overflow-hidden rounded-2xl bg-[#23262d]">
+              {game.questionImage ? (
+                <div className="border-b border-zinc-800/80 bg-black/30">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={game.questionImage}
+                    alt=""
+                    className="mx-auto max-h-[min(28vh,220px)] w-full object-contain opacity-95"
+                  />
+                </div>
+              ) : null}
+              <p className="p-4 text-sm font-medium leading-relaxed text-zinc-300">
+                {game.questionText}
+              </p>
+            </div>
+          )}
+
+          {game.resolveLines.length > 0 && (
+            <div className="rounded-2xl bg-[#23262d] p-4">
+              <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-zinc-500">
+                Resultado da rodada
+              </p>
+              {game.resolveLines.map((line, i) => (
+                <p
+                  key={i}
+                  className="mb-2 text-base font-medium leading-relaxed text-zinc-100 last:mb-0"
+                >
+                  {line}
+                </p>
+              ))}
+            </div>
+          )}
           <div className="rounded-2xl bg-[#23262d] p-3">
             <p className="mb-2 text-xs font-semibold text-zinc-400">
               Placar da partida
