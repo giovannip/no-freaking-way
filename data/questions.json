@@ -154,5 +154,3905 @@
     "image": "https://media.giphy.com/media/xTiTnuhyBF54B852nK/giphy.gif",
     "questionText": "Qual o comprimento aproximado de um ônibus londrino de dois andares em metros?",
     "correctAnswer": 11
+  },
+  {
+    "id": "astronomia-01",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos planetas oficiais existem no Sistema Solar?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "astronomia-02",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Qual a distância média da Terra à Lua em milhares de quilômetros?",
+    "correctAnswer": 385
+  },
+  {
+    "id": "astronomia-03",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Qual o diâmetro aproximado da Terra em quilômetros?",
+    "correctAnswer": 12742
+  },
+  {
+    "id": "astronomia-04",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantas luas galileanas orbitam Júpiter?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "astronomia-05",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano a sonda New Horizons fez o sobrevoo de Plutão?",
+    "correctAnswer": 2015
+  },
+  {
+    "id": "astronomia-06",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos minutos a luz do Sol leva para chegar à Terra (aprox.)?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "astronomia-07",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Qual a temperatura aproximada do núcleo do Sol em milhões de graus Celsius?",
+    "correctAnswer": 15
+  },
+  {
+    "id": "astronomia-08",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantas constelações oficiais a União Astronômica Internacional reconhece?",
+    "correctAnswer": 88
+  },
+  {
+    "id": "astronomia-09",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos dias terrestres leva Mercúrio para orbitar o Sol?",
+    "correctAnswer": 88
+  },
+  {
+    "id": "astronomia-10",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos dias terrestres dura um ano em Marte?",
+    "correctAnswer": 687
+  },
+  {
+    "id": "astronomia-11",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Qual o diâmetro aproximado da Lua em quilômetros?",
+    "correctAnswer": 3475
+  },
+  {
+    "id": "astronomia-12",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Em que ano o telescópio James Webb foi lançado ao espaço?",
+    "correctAnswer": 2021
+  },
+  {
+    "id": "astronomia-13",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos dias terrestres Vênus leva para girar uma vez em torno do próprio eixo?",
+    "correctAnswer": 243
+  },
+  {
+    "id": "astronomia-14",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Qual a inclinação aproximada do eixo de rotação de Urano em graus?",
+    "correctAnswer": 98
+  },
+  {
+    "id": "astronomia-15",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantas missões Apollo pousaram astronautas na Lua?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "astronomia-16",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Em que ano o ser humano pisou na Lua pela primeira vez?",
+    "correctAnswer": 1969
+  },
+  {
+    "id": "astronomia-17",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Qual a velocidade orbital média da Terra em quilômetros por segundo?",
+    "correctAnswer": 30
+  },
+  {
+    "id": "astronomia-18",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos anos-luz separam o Sol de Proxima Centauri (aprox.)?",
+    "correctAnswer": 4.24
+  },
+  {
+    "id": "astronomia-19",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Qual a idade aproximada do Sistema Solar em bilhões de anos?",
+    "correctAnswer": 4.6
+  },
+  {
+    "id": "astronomia-20",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantas luas naturais Marte possui?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "astronomia-21",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano o telescópio espacial Hubble foi colocado em órbita?",
+    "correctAnswer": 1990
+  },
+  {
+    "id": "astronomia-22",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos minutos a Estação Espacial Internacional leva para dar uma volta completa na Terra?",
+    "correctAnswer": 90
+  },
+  {
+    "id": "astronomia-23",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Qual a distância média Sol–Terra em milhões de quilômetros?",
+    "correctAnswer": 150
+  },
+  {
+    "id": "astronomia-24",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos planetas anões a IAU reconhece oficialmente no Sistema Solar?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "astronomia-25",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Qual o diâmetro aproximado de Plutão em quilômetros?",
+    "correctAnswer": 2377
+  },
+  {
+    "id": "astronomia-26",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano Plutão foi reclassificado como planeta anão?",
+    "correctAnswer": 2006
+  },
+  {
+    "id": "astronomia-27",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Qual a temperatura aproximada da superfície de Vênus em graus Celsius?",
+    "correctAnswer": 465
+  },
+  {
+    "id": "astronomia-28",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "De quantos em quantos anos o cometa Halley costuma visitar o Sol?",
+    "correctAnswer": 76
+  },
+  {
+    "id": "astronomia-29",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Qual o diâmetro de Júpiter em milhares de quilômetros (aprox.)?",
+    "correctAnswer": 140
+  },
+  {
+    "id": "astronomia-30",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano o Sputnik 1 tornou-se o primeiro satélite artificial da Terra?",
+    "correctAnswer": 1957
+  },
+  {
+    "id": "astronomia-31",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantas horas Júpiter leva para completar uma rotação em torno do próprio eixo?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "astronomia-32",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Qual o número Messier do aglomerado de Orion?",
+    "correctAnswer": 42
+  },
+  {
+    "id": "astronomia-33",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos dias terrestres dura um ano em Vênus?",
+    "correctAnswer": 225
+  },
+  {
+    "id": "astronomia-34",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Qual a idade aproximada da Terra em bilhões de anos?",
+    "correctAnswer": 4.54
+  },
+  {
+    "id": "astronomia-35",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantas estrelas principais formam o asterismo da Cruz do Sul?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "astronomia-36",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Qual o comprimento de onda aproximado da luz vermelha visível em nanômetros?",
+    "correctAnswer": 700
+  },
+  {
+    "id": "astronomia-37",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Qual o diâmetro aproximado do Sol em milhares de quilômetros?",
+    "correctAnswer": 1392
+  },
+  {
+    "id": "astronomia-38",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano a sonda Cassini encerrou sua missão em Saturno?",
+    "correctAnswer": 2017
+  },
+  {
+    "id": "astronomia-39",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos minutos a luz leva para ir da Terra à Lua (aprox.)?",
+    "correctAnswer": 1
+  },
+  {
+    "id": "astronomia-40",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Qual a temperatura aproximada da superfície de Mercúrio ao meio-dia em graus Celsius?",
+    "correctAnswer": 430
+  },
+  {
+    "id": "astronomia-41",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano o telescópio Kepler foi lançado?",
+    "correctAnswer": 2009
+  },
+  {
+    "id": "astronomia-42",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos anos-luz tem aproximadamente o diâmetro da Via Láctea?",
+    "correctAnswer": 100
+  },
+  {
+    "id": "astronomia-43",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Qual o número atômico do hidrogênio, elemento mais abundante no Sol?",
+    "correctAnswer": 1
+  },
+  {
+    "id": "astronomia-44",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantas fases principais da Lua ocorrem em um ciclo completo?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "astronomia-45",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Qual a distância média Terra–Sol em unidades astronômicas?",
+    "correctAnswer": 1
+  },
+  {
+    "id": "astronomia-46",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano Yuri Gagarin tornou-se o primeiro humano no espaço?",
+    "correctAnswer": 1961
+  },
+  {
+    "id": "astronomia-47",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos graus Celsius aproximadamente na superfície do Sol?",
+    "correctAnswer": 5500
+  },
+  {
+    "id": "astronomia-48",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Qual o período orbital de Netuno em anos terrestres (aprox.)?",
+    "correctAnswer": 165
+  },
+  {
+    "id": "astronomia-49",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos planetas gasosos gigantes existem no Sistema Solar?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "astronomia-50",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Qual o diâmetro aproximado de Saturno em milhares de quilômetros?",
+    "correctAnswer": 116
+  },
+  {
+    "id": "recordes-01",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Qual a altura aproximada do homem mais alto da história em centímetros?",
+    "correctAnswer": 272
+  },
+  {
+    "id": "recordes-02",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Qual o recorde mundial do cubo mágico 3x3 em segundos (aprox., 2024)?",
+    "correctAnswer": 3.13
+  },
+  {
+    "id": "recordes-03",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Qual o recorde mundial masculino de 100 metros rasos em segundos?",
+    "correctAnswer": 9.58
+  },
+  {
+    "id": "recordes-04",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Qual o recorde mundial masculino de salto em altura em metros?",
+    "correctAnswer": 2.45
+  },
+  {
+    "id": "recordes-05",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Qual o recorde mundial masculino de salto com vara em metros?",
+    "correctAnswer": 6.26
+  },
+  {
+    "id": "recordes-06",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Qual o recorde mundial masculino de salto em distância em metros?",
+    "correctAnswer": 8.95
+  },
+  {
+    "id": "recordes-07",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos metros Eliud Kipchoge correu na maratona em menos de 2 horas (evento 2019)?",
+    "correctAnswer": 42195
+  },
+  {
+    "id": "recordes-08",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Qual a profundidade aproximada da Fossa das Marianas em metros?",
+    "correctAnswer": 11000
+  },
+  {
+    "id": "recordes-09",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos andares tem o Burj Khalifa?",
+    "correctAnswer": 163
+  },
+  {
+    "id": "recordes-10",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Qual a altura do Burj Khalifa em metros?",
+    "correctAnswer": 828
+  },
+  {
+    "id": "recordes-11",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Qual a idade do cão mais velho já registrado em anos?",
+    "correctAnswer": 31
+  },
+  {
+    "id": "recordes-12",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos dentes um tubarão pode substituir ao longo da vida?",
+    "correctAnswer": 30000
+  },
+  {
+    "id": "recordes-13",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Qual o peso aproximado da língua de uma baleia-azul em quilogramas?",
+    "correctAnswer": 2700
+  },
+  {
+    "id": "recordes-14",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos anos pode viver uma tartaruga-das-Galápagos?",
+    "correctAnswer": 150
+  },
+  {
+    "id": "recordes-15",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Qual o recorde mundial feminino de 100 metros rasos em segundos (aprox.)?",
+    "correctAnswer": 10.49
+  },
+  {
+    "id": "recordes-16",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Qual o recorde mundial masculino de arremesso de peso em metros?",
+    "correctAnswer": 23.56
+  },
+  {
+    "id": "recordes-17",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Qual o recorde mundial masculino de lançamento de dardo em metros?",
+    "correctAnswer": 98.48
+  },
+  {
+    "id": "recordes-18",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos Copas do Mundo de futebol masculino foram disputadas até 2022?",
+    "correctAnswer": 22
+  },
+  {
+    "id": "recordes-19",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Qual o recorde mundial masculino de 200 metros rasos em segundos?",
+    "correctAnswer": 19.19
+  },
+  {
+    "id": "recordes-20",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Qual o recorde mundial masculino de 400 metros rasos em segundos?",
+    "correctAnswer": 43.03
+  },
+  {
+    "id": "recordes-21",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos metros tem aproximadamente o comprimento de um ônibus londrino de dois andares?",
+    "correctAnswer": 11
+  },
+  {
+    "id": "recordes-22",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Qual a altura aproximada do Monte Everest em metros?",
+    "correctAnswer": 8849
+  },
+  {
+    "id": "recordes-23",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantas teclas tem um piano de cauda tradicional?",
+    "correctAnswer": 88
+  },
+  {
+    "id": "recordes-24",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Qual o recorde mundial masculino de salto triplo em metros?",
+    "correctAnswer": 18.29
+  },
+  {
+    "id": "recordes-25",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Qual o recorde mundial masculino de 110 metros com barreiras em segundos?",
+    "correctAnswer": 12.8
+  },
+  {
+    "id": "recordes-26",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos dias seguidos um cosmonauta ficou em órbita em um único voo (recorde aprox.)?",
+    "correctAnswer": 437
+  },
+  {
+    "id": "recordes-27",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Qual o recorde mundial masculino de 800 metros em segundos?",
+    "correctAnswer": 101
+  },
+  {
+    "id": "recordes-28",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Qual o recorde mundial masculino de 1500 metros em segundos?",
+    "correctAnswer": 206
+  },
+  {
+    "id": "recordes-29",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos quilômetros por hora atingiu o carro mais rápido do mundo em recorde (aprox.)?",
+    "correctAnswer": 500
+  },
+  {
+    "id": "recordes-30",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Qual o recorde mundial feminino de salto em altura em metros?",
+    "correctAnswer": 2.1
+  },
+  {
+    "id": "recordes-31",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos metros tem o recorde mundial masculino de lançamento de martelo?",
+    "correctAnswer": 86.74
+  },
+  {
+    "id": "recordes-32",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Qual o recorde mundial masculino de decatlo em pontos (aprox.)?",
+    "correctAnswer": 9126
+  },
+  {
+    "id": "recordes-33",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos dias seguidos alguém já ficou acordado em experimento (recorde Guinness aprox.)?",
+    "correctAnswer": 11
+  },
+  {
+    "id": "recordes-34",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Qual a temperatura mais baixa já registrada na Terra em graus Celsius?",
+    "correctAnswer": -89
+  },
+  {
+    "id": "recordes-35",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Qual a temperatura mais alta já registrada na Terra em graus Celsius?",
+    "correctAnswer": 56.7
+  },
+  {
+    "id": "recordes-36",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos metros nadou alguém em apneia dinâmica com monofin (recorde aprox.)?",
+    "correctAnswer": 300
+  },
+  {
+    "id": "recordes-37",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos quilômetros tem a Via Panamericana mais longa em rota contínua (aprox.)?",
+    "correctAnswer": 30000
+  },
+  {
+    "id": "recordes-38",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos metros tem o recorde mundial masculino de salto a distância indoor?",
+    "correctAnswer": 8.79
+  },
+  {
+    "id": "recordes-39",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Qual o recorde mundial masculino de 5000 metros em minutos totais (aprox.)?",
+    "correctAnswer": 12
+  },
+  {
+    "id": "recordes-40",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos metros tem o recorde mundial masculino de arremesso de disco?",
+    "correctAnswer": 74.08
+  },
+  {
+    "id": "recordes-41",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Qual o recorde mundial masculino de 50 metros nado livre em segundos (piscina longa, aprox.)?",
+    "correctAnswer": 20
+  },
+  {
+    "id": "recordes-42",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos quilômetros tem a Grande Muralha da China em extensão histórica aproximada citada?",
+    "correctAnswer": 21196
+  },
+  {
+    "id": "recordes-43",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Qual o recorde mundial feminino de 200 metros rasos em segundos?",
+    "correctAnswer": 21.34
+  },
+  {
+    "id": "recordes-44",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos metros tem o recorde mundial masculino de lançamento de javelin antigo (aprox. era atual)?",
+    "correctAnswer": 98.48
+  },
+  {
+    "id": "recordes-45",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Qual o recorde mundial masculino de 3000 metros com obstáculos em segundos (aprox.)?",
+    "correctAnswer": 473
+  },
+  {
+    "id": "recordes-46",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos andares tem o Shanghai Tower?",
+    "correctAnswer": 128
+  },
+  {
+    "id": "recordes-47",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Qual a altura do Shanghai Tower em metros?",
+    "correctAnswer": 632
+  },
+  {
+    "id": "recordes-48",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos metros de profundidade com scuba já alcançou um mergulho com recorde Guinness (aprox.)?",
+    "correctAnswer": 332
+  },
+  {
+    "id": "recordes-49",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Qual o recorde mundial masculino de meia maratona em minutos (aprox.)?",
+    "correctAnswer": 57
+  },
+  {
+    "id": "recordes-50",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos metros tem o recorde mundial feminino de lançamento de dardo?",
+    "correctAnswer": 72.28
+  },
+  {
+    "id": "videogames-01",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano foi lançado o primeiro jogo Super Mario Bros. para NES?",
+    "correctAnswer": 1985
+  },
+  {
+    "id": "videogames-02",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos jogadores simultâneos o modo battle royale clássico de Fortnite suporta em uma partida?",
+    "correctAnswer": 100
+  },
+  {
+    "id": "videogames-03",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi lançado Minecraft originalmente para PC?",
+    "correctAnswer": 2011
+  },
+  {
+    "id": "videogames-04",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantas gerações de consoles PlayStation existem até o PS5?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "videogames-05",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano saiu The Legend of Zelda: Ocarina of Time?",
+    "correctAnswer": 1998
+  },
+  {
+    "id": "videogames-06",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos blocos de altura tem um personagem padrão em Minecraft em blocos?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "videogames-07",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi lançado o primeiro Pokémon Red/Green no Japão?",
+    "correctAnswer": 1996
+  },
+  {
+    "id": "videogames-08",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos corações máximos Link pode ter em The Legend of Zelda: A Link to the Past?",
+    "correctAnswer": 20
+  },
+  {
+    "id": "videogames-09",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano foi lançado Grand Theft Auto V?",
+    "correctAnswer": 2013
+  },
+  {
+    "id": "videogames-10",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos jogadores participam de uma partida padrão de League of Legends?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "videogames-11",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano a Nintendo lançou o Nintendo Switch?",
+    "correctAnswer": 2017
+  },
+  {
+    "id": "videogames-12",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos personagens compõem o elenco original de Overwatch (2016)?",
+    "correctAnswer": 21
+  },
+  {
+    "id": "videogames-13",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi lançado Tetris para Game Boy?",
+    "correctAnswer": 1989
+  },
+  {
+    "id": "videogames-14",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano foi lançado o primeiro Resident Evil no PlayStation?",
+    "correctAnswer": 1996
+  },
+  {
+    "id": "videogames-15",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano saiu Doom (1993)?",
+    "correctAnswer": 1993
+  },
+  {
+    "id": "videogames-16",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos blocos de comprimento tem um chunk padrão em Minecraft?",
+    "correctAnswer": 16
+  },
+  {
+    "id": "videogames-17",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano foi lançado World of Warcraft?",
+    "correctAnswer": 2004
+  },
+  {
+    "id": "videogames-18",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos anos Pac-Man completou em 2020?",
+    "correctAnswer": 40
+  },
+  {
+    "id": "videogames-19",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi lançado o primeiro Dark Souls?",
+    "correctAnswer": 2011
+  },
+  {
+    "id": "videogames-20",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos jogadores tem um time em Rocket League em modo padrão?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "videogames-21",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano saiu Half-Life 2?",
+    "correctAnswer": 2004
+  },
+  {
+    "id": "videogames-22",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos botões principais tem um controle SNES clássico (face + ombro, sem Start/Select)?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "videogames-23",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi lançado Counter-Strike: Global Offensive?",
+    "correctAnswer": 2012
+  },
+  {
+    "id": "videogames-24",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos corações o chefão final de The Legend of Zelda (NES) tem em cada fase?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "videogames-25",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano saiu Red Dead Redemption 2?",
+    "correctAnswer": 2018
+  },
+  {
+    "id": "videogames-26",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano GoldenEye 007 foi lançado para Nintendo 64?",
+    "correctAnswer": 1997
+  },
+  {
+    "id": "videogames-27",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi lançado o primeiro The Sims?",
+    "correctAnswer": 2000
+  },
+  {
+    "id": "videogames-28",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos jogadores tem um squad em Apex Legends?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "videogames-29",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano saiu Portal?",
+    "correctAnswer": 2007
+  },
+  {
+    "id": "videogames-30",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos anos separaram o lançamento de Skyrim e de The Elder Scrolls IV: Oblivion?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "videogames-31",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi lançado Street Fighter II?",
+    "correctAnswer": 1991
+  },
+  {
+    "id": "videogames-32",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos personagens iniciais tinha Super Smash Bros. (N64)?",
+    "correctAnswer": 12
+  },
+  {
+    "id": "videogames-33",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano saiu Bioshock?",
+    "correctAnswer": 2007
+  },
+  {
+    "id": "videogames-34",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos anos de idade tem a franquia Final Fantasy em 2022 (aprox.)?",
+    "correctAnswer": 35
+  },
+  {
+    "id": "videogames-35",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi lançado Among Us?",
+    "correctAnswer": 2018
+  },
+  {
+    "id": "videogames-36",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos jogadores tem uma partida padrão de Valorant?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "videogames-37",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano saiu Metal Gear Solid?",
+    "correctAnswer": 1998
+  },
+  {
+    "id": "videogames-38",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos bits tinha o processador principal do Nintendo 64?",
+    "correctAnswer": 64
+  },
+  {
+    "id": "videogames-39",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi lançado Animal Crossing: New Horizons?",
+    "correctAnswer": 2020
+  },
+  {
+    "id": "videogames-40",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos anos tinha Pong quando completou 50 anos em 2022?",
+    "correctAnswer": 50
+  },
+  {
+    "id": "videogames-41",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano saiu Diablo II?",
+    "correctAnswer": 2000
+  },
+  {
+    "id": "videogames-42",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos jogadores tem um time de basquete em NBA 2K modo 5v5?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "videogames-43",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi lançado The Witcher 3: Wild Hunt?",
+    "correctAnswer": 2015
+  },
+  {
+    "id": "videogames-44",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos anos se passaram entre GTA IV e GTA V?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "videogames-45",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano saiu Sonic the Hedgehog para Mega Drive?",
+    "correctAnswer": 1991
+  },
+  {
+    "id": "videogames-46",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos jogadores tem uma arena padrão de Brawl Stars (3v3)?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "videogames-47",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi lançado Elden Ring?",
+    "correctAnswer": 2022
+  },
+  {
+    "id": "videogames-48",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos anos tinha a série Assassin's Creed em 2022 (primeiro jogo 2007)?",
+    "correctAnswer": 15
+  },
+  {
+    "id": "videogames-49",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano saiu Halo: Combat Evolved?",
+    "correctAnswer": 2001
+  },
+  {
+    "id": "videogames-50",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos mapas clássicos vinham no multiplayer de Halo 3 no lançamento (aprox.)?",
+    "correctAnswer": 11
+  },
+  {
+    "id": "animais-01",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos corações tem um polvo comum?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "animais-02",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos olhos tem uma abelha-rainha?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "animais-03",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantas patas tem um inseto adulto típico?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "animais-04",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos dentes tem em média um tubarão-branco adulto?",
+    "correctAnswer": 300
+  },
+  {
+    "id": "animais-05",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantas vértebras cervicais têm quase todos os mamíferos, incluindo girafas?",
+    "correctAnswer": 7
+  },
+  {
+    "id": "animais-06",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos estômagos tem uma vaca?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "animais-07",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos dedos nas patas dianteiras um gato doméstico costuma ter?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "animais-08",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos dedos nas patas traseiras um gato doméstico costuma ter?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "animais-09",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantas espécies de pinguim existem aproximadamente?",
+    "correctAnswer": 18
+  },
+  {
+    "id": "animais-10",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos quilômetros por hora um guepardo pode correr em picos (aprox.)?",
+    "correctAnswer": 110
+  },
+  {
+    "id": "animais-11",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos anos pode viver um elefante africano na natureza (aprox.)?",
+    "correctAnswer": 70
+  },
+  {
+    "id": "animais-12",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos estômagos tem um camelo?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "animais-13",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantas pernas tem uma aranha?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "animais-14",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos cromossomos tem um cão doméstico?",
+    "correctAnswer": 78
+  },
+  {
+    "id": "animais-15",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos quilos pesa em média um panda adulto macho?",
+    "correctAnswer": 100
+  },
+  {
+    "id": "animais-16",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantas espécies de tubarão são reconhecidas cientificamente (ordem de grandeza, aprox.)?",
+    "correctAnswer": 500
+  },
+  {
+    "id": "animais-17",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos batimentos por minuto tem em repouso o coração de uma baleia-azul (aprox.)?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "animais-18",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos metros mede em média uma girafa adulta?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "animais-19",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos filhotes uma tartaruga-verde costuma pôr em uma desova (ordem de grandeza)?",
+    "correctAnswer": 100
+  },
+  {
+    "id": "animais-20",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos anos pode viver um papagaio-arara em cativeiro (aprox.)?",
+    "correctAnswer": 50
+  },
+  {
+    "id": "animais-21",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantas asas tem uma mosca-doméstica?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "animais-22",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos quilômetros por hora um falcão-peregrino pode atingir em mergulho (aprox.)?",
+    "correctAnswer": 320
+  },
+  {
+    "id": "animais-23",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos dedos tem uma preguiça-de-três-dedos nas patas dianteiras?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "animais-24",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos tentáculos tem um polvo comum?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "animais-25",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos quilos pesa em média um rinoceronte-branco macho adulto?",
+    "correctAnswer": 2300
+  },
+  {
+    "id": "animais-26",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantas costelas tem um cavalo?",
+    "correctAnswer": 18
+  },
+  {
+    "id": "animais-27",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos dentes tem um crocodilo-do-nilo adulto (aprox.)?",
+    "correctAnswer": 64
+  },
+  {
+    "id": "animais-28",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos cromossomos tem um cavalo doméstico?",
+    "correctAnswer": 64
+  },
+  {
+    "id": "animais-29",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos meses dura a gestação de uma vaca?",
+    "correctAnswer": 9
+  },
+  {
+    "id": "animais-30",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos quilômetros por hora um leão pode correr em curta distância?",
+    "correctAnswer": 80
+  },
+  {
+    "id": "animais-31",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantas espécies de morcegos existem aproximadamente no mundo?",
+    "correctAnswer": 1400
+  },
+  {
+    "id": "animais-32",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos olhos tem uma aranha saltadora típica?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "animais-33",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos dias dura a incubação de um pato aproximadamente?",
+    "correctAnswer": 28
+  },
+  {
+    "id": "animais-34",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos metros de comprimento pode ter uma anaconda-verde (aprox.)?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "animais-35",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos quilos pesa em média um urso-polar macho adulto?",
+    "correctAnswer": 450
+  },
+  {
+    "id": "animais-36",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantas patas tem um caranguejo?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "animais-37",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos anos vive em média um cão doméstico?",
+    "correctAnswer": 12
+  },
+  {
+    "id": "animais-38",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos quilômetros por hora um cavalo de corrida pode atingir?",
+    "correctAnswer": 70
+  },
+  {
+    "id": "animais-39",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos filhotes uma cadela pode ter em uma ninhada típica (máximo comum)?",
+    "correctAnswer": 12
+  },
+  {
+    "id": "animais-40",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos anos pode viver um tubarão-da-Groenlândia (estimativa máxima aprox.)?",
+    "correctAnswer": 400
+  },
+  {
+    "id": "animais-41",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos dentes tem uma baleia-azul (tipo de barbatana)?",
+    "correctAnswer": 0
+  },
+  {
+    "id": "animais-42",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantas espécies de cobras venenosas existem aproximadamente no mundo?",
+    "correctAnswer": 600
+  },
+  {
+    "id": "animais-43",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos quilômetros por hora um avestruz pode correr?",
+    "correctAnswer": 70
+  },
+  {
+    "id": "animais-44",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos meses dura a gestação de um elefante?",
+    "correctAnswer": 22
+  },
+  {
+    "id": "animais-45",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos corações tem um sanguessuga?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "animais-46",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos quilos pesa em média um hipopótamo macho adulto?",
+    "correctAnswer": 1500
+  },
+  {
+    "id": "animais-47",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantas espécies de formigas existem aproximadamente catalogadas?",
+    "correctAnswer": 12000
+  },
+  {
+    "id": "animais-48",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos metros de envergadura pode ter uma albatroz-vagabundo?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "animais-49",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos anos vive em média um gato doméstico?",
+    "correctAnswer": 15
+  },
+  {
+    "id": "animais-50",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos quilômetros de profundidade habitam peixes-abissais (ordem de km)?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "historia-01",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano o Brasil foi descoberto por Pedro Álvares Cabral?",
+    "correctAnswer": 1500
+  },
+  {
+    "id": "historia-02",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano caiu o Império Romano do Ocidente (aprox.)?",
+    "correctAnswer": 476
+  },
+  {
+    "id": "historia-03",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano Cristóvão Colombo chegou à América?",
+    "correctAnswer": 1492
+  },
+  {
+    "id": "historia-04",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Em que ano começou a Primeira Guerra Mundial?",
+    "correctAnswer": 1914
+  },
+  {
+    "id": "historia-05",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano terminou a Segunda Guerra Mundial na Europa?",
+    "correctAnswer": 1945
+  },
+  {
+    "id": "historia-06",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano o homem pisou na Lua pela primeira vez?",
+    "correctAnswer": 1969
+  },
+  {
+    "id": "historia-07",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi proclamada a Independência do Brasil?",
+    "correctAnswer": 1822
+  },
+  {
+    "id": "historia-08",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Em que ano foi abolida a escravatura no Brasil (Lei Áurea)?",
+    "correctAnswer": 1888
+  },
+  {
+    "id": "historia-09",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi proclamada a República no Brasil?",
+    "correctAnswer": 1889
+  },
+  {
+    "id": "historia-10",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano caiu a Bastilha na Revolução Francesa?",
+    "correctAnswer": 1789
+  },
+  {
+    "id": "historia-11",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano Napoleão Bonaparte morreu?",
+    "correctAnswer": 1821
+  },
+  {
+    "id": "historia-12",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Em que ano começou a Revolução Russa de Fevereiro?",
+    "correctAnswer": 1917
+  },
+  {
+    "id": "historia-13",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano caiu o Muro de Berlim?",
+    "correctAnswer": 1989
+  },
+  {
+    "id": "historia-14",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano foi assinada a Magna Carta?",
+    "correctAnswer": 1215
+  },
+  {
+    "id": "historia-15",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano Gutenberg inventou a imprensa com tipos móveis (aprox.)?",
+    "correctAnswer": 1450
+  },
+  {
+    "id": "historia-16",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Em que ano começou a Guerra Civil Americana?",
+    "correctAnswer": 1861
+  },
+  {
+    "id": "historia-17",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano terminou a Guerra Civil Americana?",
+    "correctAnswer": 1865
+  },
+  {
+    "id": "historia-18",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Segundo a tradição, quantos anos antes de Cristo Roma foi fundada?",
+    "correctAnswer": 753
+  },
+  {
+    "id": "historia-19",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano caiu Constantinopla para os otomanos?",
+    "correctAnswer": 1453
+  },
+  {
+    "id": "historia-20",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Em que ano Colombo nasceu (aprox.)?",
+    "correctAnswer": 1451
+  },
+  {
+    "id": "historia-21",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano o Titanic naufragou?",
+    "correctAnswer": 1912
+  },
+  {
+    "id": "historia-22",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano foi a Revolução de 1930 no Brasil?",
+    "correctAnswer": 1930
+  },
+  {
+    "id": "historia-23",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano Getúlio Vargas cometeu suicídio?",
+    "correctAnswer": 1954
+  },
+  {
+    "id": "historia-24",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Em que ano foi promulgada a Constituição brasileira atual (1988)?",
+    "correctAnswer": 1988
+  },
+  {
+    "id": "historia-25",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano começou a Guerra dos Cem Anos?",
+    "correctAnswer": 1337
+  },
+  {
+    "id": "historia-26",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano terminou a Guerra dos Cem Anos?",
+    "correctAnswer": 1453
+  },
+  {
+    "id": "historia-27",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi a Batalha de Waterloo?",
+    "correctAnswer": 1815
+  },
+  {
+    "id": "historia-28",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Em que ano foi a Revolução Constitucionalista de São Paulo?",
+    "correctAnswer": 1932
+  },
+  {
+    "id": "historia-29",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano ocorreu a queda do Império Bizantino?",
+    "correctAnswer": 1453
+  },
+  {
+    "id": "historia-30",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano foi a Revolução Industrial inglesa considerada início clássico (aprox.)?",
+    "correctAnswer": 1760
+  },
+  {
+    "id": "historia-31",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi a Revolução de 1964 no Brasil?",
+    "correctAnswer": 1964
+  },
+  {
+    "id": "historia-32",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Em que ano foi o Descobrimento do caminho marítimo para a Índia por Vasco da Gama?",
+    "correctAnswer": 1498
+  },
+  {
+    "id": "historia-33",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi a Independência dos Estados Unidos declarada?",
+    "correctAnswer": 1776
+  },
+  {
+    "id": "historia-34",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano caiu o Império Azteca para os espanhóis (aprox.)?",
+    "correctAnswer": 1521
+  },
+  {
+    "id": "historia-35",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi a Revolução Chinesa comunista (proclamação da RPC)?",
+    "correctAnswer": 1949
+  },
+  {
+    "id": "historia-36",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Em que ano foi a Revolução Cubana com entrada de Fidel em Havana?",
+    "correctAnswer": 1959
+  },
+  {
+    "id": "historia-37",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano foi o ataque a Pearl Harbor?",
+    "correctAnswer": 1941
+  },
+  {
+    "id": "historia-38",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano caiu o Império Inca (aprox.)?",
+    "correctAnswer": 1533
+  },
+  {
+    "id": "historia-39",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi a Revolução Gloriosa na Inglaterra?",
+    "correctAnswer": 1688
+  },
+  {
+    "id": "historia-40",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Em que ano foi a Revolução Mexicana (início aprox.)?",
+    "correctAnswer": 1910
+  },
+  {
+    "id": "historia-41",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi a Revolução Haitiana (independência)?",
+    "correctAnswer": 1804
+  },
+  {
+    "id": "historia-42",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano foi a Revolução Inglesa que decapitou Carlos I?",
+    "correctAnswer": 1649
+  },
+  {
+    "id": "historia-43",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi a Batalha de Hastings?",
+    "correctAnswer": 1066
+  },
+  {
+    "id": "historia-44",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Em que ano foi a Revolução de Veludo na Tchecoslováquia?",
+    "correctAnswer": 1989
+  },
+  {
+    "id": "historia-45",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano foi o Tratado de Tordesilhas?",
+    "correctAnswer": 1494
+  },
+  {
+    "id": "historia-46",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano foi a Batalha de Stalingrado (início aprox.)?",
+    "correctAnswer": 1942
+  },
+  {
+    "id": "historia-47",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi o fim da Guerra Fria simbolicamente (dissolução da URSS)?",
+    "correctAnswer": 1991
+  },
+  {
+    "id": "historia-48",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Em que ano foi a Revolução de Outubro na Rússia (calendário gregoriano aprox.)?",
+    "correctAnswer": 1917
+  },
+  {
+    "id": "historia-49",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi a Proclamação da República Portuguesa?",
+    "correctAnswer": 1910
+  },
+  {
+    "id": "historia-50",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano foi a Revolução Iraniana (queda do Xá)?",
+    "correctAnswer": 1979
+  },
+  {
+    "id": "tecnologia-01",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi lançado o primeiro iPhone?",
+    "correctAnswer": 2007
+  },
+  {
+    "id": "tecnologia-02",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos nanômetros tinha o processo do Apple A14 Bionic (aprox.)?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "tecnologia-03",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano a World Wide Web foi proposta por Tim Berners-Lee?",
+    "correctAnswer": 1989
+  },
+  {
+    "id": "tecnologia-04",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos bits tem um byte?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "tecnologia-05",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos megabytes tem um gigabyte em base decimal comercial?",
+    "correctAnswer": 1000
+  },
+  {
+    "id": "tecnologia-06",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Em que ano foi fundada a Microsoft?",
+    "correctAnswer": 1975
+  },
+  {
+    "id": "tecnologia-07",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi fundada a Apple Computer?",
+    "correctAnswer": 1976
+  },
+  {
+    "id": "tecnologia-08",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos núcleos tinha o primeiro Intel Core i7 de desktop (geração 1, aprox.)?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "tecnologia-09",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi lançado o Android 1.0?",
+    "correctAnswer": 2008
+  },
+  {
+    "id": "tecnologia-10",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos transistores aproximadamente tem o chip Apple M1 em bilhões?",
+    "correctAnswer": 16
+  },
+  {
+    "id": "tecnologia-11",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano o USB 1.0 foi padronizado?",
+    "correctAnswer": 1996
+  },
+  {
+    "id": "tecnologia-12",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos pinos tem um conector USB-A clássico?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "tecnologia-13",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi lançado o Windows 95?",
+    "correctAnswer": 1995
+  },
+  {
+    "id": "tecnologia-14",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos MHz tinha a frequência inicial do primeiro Intel Pentium clássico?",
+    "correctAnswer": 60
+  },
+  {
+    "id": "tecnologia-15",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi lançado o Linux kernel 1.0?",
+    "correctAnswer": 1994
+  },
+  {
+    "id": "tecnologia-16",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos volts tem a tomada residencial padrão no Brasil?",
+    "correctAnswer": 127
+  },
+  {
+    "id": "tecnologia-17",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano a IBM lançou o PC original?",
+    "correctAnswer": 1981
+  },
+  {
+    "id": "tecnologia-18",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos megapixels tem aproximadamente uma foto 4K (3840x2160)?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "tecnologia-19",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano foi lançado o Bluetooth 1.0?",
+    "correctAnswer": 1999
+  },
+  {
+    "id": "tecnologia-20",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos Hz tem a frequência da rede elétrica brasileira?",
+    "correctAnswer": 60
+  },
+  {
+    "id": "tecnologia-21",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi lançado o Wi-Fi 802.11b?",
+    "correctAnswer": 1999
+  },
+  {
+    "id": "tecnologia-22",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos TB tem um petabyte em base decimal?",
+    "correctAnswer": 1000
+  },
+  {
+    "id": "tecnologia-23",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi anunciado o primeiro Tesla Roadster?",
+    "correctAnswer": 2006
+  },
+  {
+    "id": "tecnologia-24",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos nanômetros tinha o processo do Ryzen 3000 desktop inicial (aprox.)?",
+    "correctAnswer": 7
+  },
+  {
+    "id": "tecnologia-25",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi lançado o IPv6 como RFC padrão?",
+    "correctAnswer": 1998
+  },
+  {
+    "id": "tecnologia-26",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos bits tem um endereço IPv6 completo?",
+    "correctAnswer": 128
+  },
+  {
+    "id": "tecnologia-27",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano foi lançado o primeiro PlayStation?",
+    "correctAnswer": 1994
+  },
+  {
+    "id": "tecnologia-28",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos GB de RAM tinha o máximo típico de laptops mainstream em 2010 (ordem de grandeza)?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "tecnologia-29",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi lançado o primeiro Raspberry Pi?",
+    "correctAnswer": 2012
+  },
+  {
+    "id": "tecnologia-30",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos cores físicos tinha o AMD Threadripper 3990X?",
+    "correctAnswer": 64
+  },
+  {
+    "id": "tecnologia-31",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi lançado o Docker?",
+    "correctAnswer": 2013
+  },
+  {
+    "id": "tecnologia-32",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos volts tem uma pilha AA alcalina típica?",
+    "correctAnswer": 1
+  },
+  {
+    "id": "tecnologia-33",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi lançado o Git?",
+    "correctAnswer": 2005
+  },
+  {
+    "id": "tecnologia-34",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos TB tem um exabyte em base decimal?",
+    "correctAnswer": 1000000
+  },
+  {
+    "id": "tecnologia-35",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano foi lançado o primeiro Kindle da Amazon?",
+    "correctAnswer": 2007
+  },
+  {
+    "id": "tecnologia-36",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos Mbps teoricamente o USB 2.0 suporta?",
+    "correctAnswer": 480
+  },
+  {
+    "id": "tecnologia-37",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi lançado o primeiro Android comercial (HTC Dream)?",
+    "correctAnswer": 2008
+  },
+  {
+    "id": "tecnologia-38",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos GHz tem a banda Wi-Fi 5 GHz central aproximada?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "tecnologia-39",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi lançado o primeiro Mac com chip Apple Silicon (M1)?",
+    "correctAnswer": 2020
+  },
+  {
+    "id": "tecnologia-40",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos mAh tem aproximadamente uma bateria de smartphone médio (ordem de grandeza)?",
+    "correctAnswer": 5000
+  },
+  {
+    "id": "tecnologia-41",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi lançado o HTTP/2 como RFC?",
+    "correctAnswer": 2015
+  },
+  {
+    "id": "tecnologia-42",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos TB por segundo aproximadamente a DDR5-4800 dual channel pode mover (ordem de grandeza)?",
+    "correctAnswer": 76
+  },
+  {
+    "id": "tecnologia-43",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano foi lançado o primeiro Chromebook?",
+    "correctAnswer": 2011
+  },
+  {
+    "id": "tecnologia-44",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos núcleos tem o Apple M1 Max em configuração máxima?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "tecnologia-45",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi lançado o primeiro SSD consumer mainstream (Intel X25-M aprox.)?",
+    "correctAnswer": 2008
+  },
+  {
+    "id": "tecnologia-46",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos TB tem um zettabyte em base decimal?",
+    "correctAnswer": 1000000000
+  },
+  {
+    "id": "tecnologia-47",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi lançado o primeiro iPad?",
+    "correctAnswer": 2010
+  },
+  {
+    "id": "tecnologia-48",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos pinos tem a DRAM DDR4 DIMM padrão de desktop?",
+    "correctAnswer": 288
+  },
+  {
+    "id": "tecnologia-49",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi lançado o primeiro Android Wear (Wear OS)?",
+    "correctAnswer": 2014
+  },
+  {
+    "id": "tecnologia-50",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos anos de idade tinha o Fortran em 2024 (primeira versão 1957)?",
+    "correctAnswer": 67
+  },
+  {
+    "id": "internet-01",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano foi lançado o YouTube?",
+    "correctAnswer": 2005
+  },
+  {
+    "id": "internet-02",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano foi fundado o Facebook?",
+    "correctAnswer": 2004
+  },
+  {
+    "id": "internet-03",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi lançado o Twitter (agora X)?",
+    "correctAnswer": 2006
+  },
+  {
+    "id": "internet-04",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos caracteres tinha originalmente o limite de um tweet?",
+    "correctAnswer": 140
+  },
+  {
+    "id": "internet-05",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi lançado o Instagram?",
+    "correctAnswer": 2010
+  },
+  {
+    "id": "internet-06",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano foi lançado o WhatsApp?",
+    "correctAnswer": 2009
+  },
+  {
+    "id": "internet-07",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi lançado o TikTok internacionalmente (aprox.)?",
+    "correctAnswer": 2017
+  },
+  {
+    "id": "internet-08",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos segundos durava originalmente um vídeo no Vine?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "internet-09",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano foi lançado o Reddit?",
+    "correctAnswer": 2005
+  },
+  {
+    "id": "internet-10",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano foi lançado o LinkedIn?",
+    "correctAnswer": 2003
+  },
+  {
+    "id": "internet-11",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos bilhões de usuários o Facebook ultrapassou em 2022 (ordem de magnitude)?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "internet-12",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Em que ano foi lançado o Snapchat?",
+    "correctAnswer": 2011
+  },
+  {
+    "id": "internet-13",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi lançado o Pinterest?",
+    "correctAnswer": 2010
+  },
+  {
+    "id": "internet-14",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos milhões de repositórios públicos o GitHub tinha em 2020 (ordem de magnitude)?",
+    "correctAnswer": 100
+  },
+  {
+    "id": "internet-15",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi lançado o Slack?",
+    "correctAnswer": 2013
+  },
+  {
+    "id": "internet-16",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Em que ano foi lançado o Zoom em sua forma inicial de videoconferência?",
+    "correctAnswer": 2011
+  },
+  {
+    "id": "internet-17",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos bits tem um endereço MAC típico?",
+    "correctAnswer": 48
+  },
+  {
+    "id": "internet-18",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano o HTTP/1.1 foi formalizado na RFC 2616?",
+    "correctAnswer": 1999
+  },
+  {
+    "id": "internet-19",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Qual o código HTTP padrão que significa sucesso OK?",
+    "correctAnswer": 200
+  },
+  {
+    "id": "internet-20",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Em que ano foi lançado o Telegram?",
+    "correctAnswer": 2013
+  },
+  {
+    "id": "internet-21",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos milhões de downloads o WhatsApp tinha em 2016 (ordem de magnitude)?",
+    "correctAnswer": 1000
+  },
+  {
+    "id": "internet-22",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano foi lançado o Discord?",
+    "correctAnswer": 2015
+  },
+  {
+    "id": "internet-23",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos anos tinha a Wikipedia em 2021 (lançamento 2001)?",
+    "correctAnswer": 20
+  },
+  {
+    "id": "internet-24",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Em que ano foi lançado o Google Chrome?",
+    "correctAnswer": 2008
+  },
+  {
+    "id": "internet-25",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos anos tinha o domínio google.com em 2023 (registrado em 1997)?",
+    "correctAnswer": 26
+  },
+  {
+    "id": "internet-26",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano foi lançado o Netflix streaming nos EUA?",
+    "correctAnswer": 2007
+  },
+  {
+    "id": "internet-27",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos milhões de usuários o Spotify tinha em 2019 (ordem de magnitude)?",
+    "correctAnswer": 250
+  },
+  {
+    "id": "internet-28",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Em que ano foi lançado o Twitch como plataforma focada em jogos?",
+    "correctAnswer": 2011
+  },
+  {
+    "id": "internet-29",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos segundos de stories o Instagram permite por clipe?",
+    "correctAnswer": 60
+  },
+  {
+    "id": "internet-30",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano foi lançado o Google Maps?",
+    "correctAnswer": 2005
+  },
+  {
+    "id": "internet-31",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos anos tinha o e-mail comercial em massa em 2021 (Hotmail 1996)?",
+    "correctAnswer": 25
+  },
+  {
+    "id": "internet-32",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Em que ano foi lançado o Amazon Prime?",
+    "correctAnswer": 2005
+  },
+  {
+    "id": "internet-33",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos milhões de servidores DNS raiz existem em clusters (aprox.)?",
+    "correctAnswer": 13
+  },
+  {
+    "id": "internet-34",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano foi lançado o HTTPS Everywhere como ideia ampla (aprox.)?",
+    "correctAnswer": 2010
+  },
+  {
+    "id": "internet-35",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos minutos de duração tinha o limite inicial de upload de vídeo no YouTube?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "internet-36",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Em que ano foi lançado o OnlyFans?",
+    "correctAnswer": 2016
+  },
+  {
+    "id": "internet-37",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos anos tinha o HTTPS na web em 2024 (Netscape SSL 1994)?",
+    "correctAnswer": 30
+  },
+  {
+    "id": "internet-38",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano foi lançado o Google Search?",
+    "correctAnswer": 1998
+  },
+  {
+    "id": "internet-39",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos milhões de artigos a Wikipedia tinha em todas as línguas em 2020 (ordem de magnitude)?",
+    "correctAnswer": 55
+  },
+  {
+    "id": "internet-40",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Em que ano foi lançado o Gmail em beta?",
+    "correctAnswer": 2004
+  },
+  {
+    "id": "internet-41",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos GB de armazenamento gratuito inicial o Gmail oferecia em 2004?",
+    "correctAnswer": 1
+  },
+  {
+    "id": "internet-42",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano foi lançado o PayPal na forma amplamente conhecida?",
+    "correctAnswer": 1998
+  },
+  {
+    "id": "internet-43",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos milhões de domínios .com existiam em 2020 (ordem de magnitude)?",
+    "correctAnswer": 150
+  },
+  {
+    "id": "internet-44",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Em que ano foi lançado o Firefox 1.0?",
+    "correctAnswer": 2004
+  },
+  {
+    "id": "internet-45",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos anos tinha o eBay em 2020 (fundado 1995)?",
+    "correctAnswer": 25
+  },
+  {
+    "id": "internet-46",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano foi lançado o Airbnb?",
+    "correctAnswer": 2008
+  },
+  {
+    "id": "internet-47",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos milhões de linhas de código tem o Chromium aproximadamente (ordem de magnitude)?",
+    "correctAnswer": 30
+  },
+  {
+    "id": "internet-48",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Em que ano foi lançado o Uber?",
+    "correctAnswer": 2009
+  },
+  {
+    "id": "internet-49",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Qual o código HTTP padrão para erro interno do servidor?",
+    "correctAnswer": 500
+  },
+  {
+    "id": "internet-50",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano foi lançado o Mastodon?",
+    "correctAnswer": 2016
+  },
+  {
+    "id": "corpo-01",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos ossos tem o corpo humano adulto?",
+    "correctAnswer": 206
+  },
+  {
+    "id": "corpo-02",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos dentes permanentes tem um adulto com dentição completa?",
+    "correctAnswer": 32
+  },
+  {
+    "id": "corpo-03",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos cromossomos tem uma célula humana diploide?",
+    "correctAnswer": 46
+  },
+  {
+    "id": "corpo-04",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos litros de sangue tem em média um adulto?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "corpo-05",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos batimentos cardíacos por minuto em repouso é típico (adulto, aprox.)?",
+    "correctAnswer": 72
+  },
+  {
+    "id": "corpo-06",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos pares de costelas tem o humano típico?",
+    "correctAnswer": 12
+  },
+  {
+    "id": "corpo-07",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos músculos esqueléticos existem aproximadamente no corpo humano?",
+    "correctAnswer": 600
+  },
+  {
+    "id": "corpo-08",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos litros de ar um adulto mobiliza em respiração calma por minuto (aprox.)?",
+    "correctAnswer": 7
+  },
+  {
+    "id": "corpo-09",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos segmentos tem a medula espinhal humana típica (vértebras)?",
+    "correctAnswer": 33
+  },
+  {
+    "id": "corpo-10",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos dentes de leite tem uma criança completa?",
+    "correctAnswer": 20
+  },
+  {
+    "id": "corpo-11",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos litros de água o corpo humano adulto contém aproximadamente?",
+    "correctAnswer": 42
+  },
+  {
+    "id": "corpo-12",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos milhões de alvéolos existem nos pulmões (ordem de magnitude)?",
+    "correctAnswer": 300
+  },
+  {
+    "id": "corpo-13",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos metros de comprimento tem o intestino delgado adulto aproximadamente?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "corpo-14",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos centímetros tem em média o fígado humano na maior dimensão?",
+    "correctAnswer": 15
+  },
+  {
+    "id": "corpo-15",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos neurônios o cérebro humano tem (ordem de magnitude em bilhões)?",
+    "correctAnswer": 86
+  },
+  {
+    "id": "corpo-16",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos litros por minuto o coração bombeia em repouso (adulto, aprox.)?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "corpo-17",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos fósforos de DNA o genoma humano tem (ordem de magnitude em bilhões de pares de bases)?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "corpo-18",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos dentes siso podem nascer no máximo típico?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "corpo-19",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos pares de nervos cranianos existem?",
+    "correctAnswer": 12
+  },
+  {
+    "id": "corpo-20",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos meses dura a gestação humana típica?",
+    "correctAnswer": 9
+  },
+  {
+    "id": "corpo-21",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos graus Celsius é a temperatura corporal média?",
+    "correctAnswer": 37
+  },
+  {
+    "id": "corpo-22",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos centímetros tem o apêndice vermiforme em média?",
+    "correctAnswer": 9
+  },
+  {
+    "id": "corpo-23",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos litros de bile o fígado produz por dia aproximadamente?",
+    "correctAnswer": 1
+  },
+  {
+    "id": "corpo-24",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos vasos sanguíneos principais saem do coração?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "corpo-25",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos lóbulos tem o fígado humano macroscopicamente?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "corpo-26",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos mililitros de urina a bexiga adulta segura confortavelmente?",
+    "correctAnswer": 400
+  },
+  {
+    "id": "corpo-27",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos centímetros tem o cordão umbilical típico ao nascer?",
+    "correctAnswer": 55
+  },
+  {
+    "id": "corpo-28",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos dentes pré-molares existem na dentição permanente completa?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "corpo-29",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos milímetros de espessura tem a pele na palma da mão (aprox.)?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "corpo-30",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos anos a pele humana se renova completamente em média?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "corpo-31",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos milhões de glomérulos existem em ambos os rins (ordem de magnitude)?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "corpo-32",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos gramas pesa o cérebro humano adulto em média?",
+    "correctAnswer": 1400
+  },
+  {
+    "id": "corpo-33",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos dentes incisivos existem na dentição permanente?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "corpo-34",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos pares de músculos o olho humano usa para movimentos principais?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "corpo-35",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos litros de plasma sanguíneo tem em média um adulto?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "corpo-36",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos vértebras cervicais tem o humano?",
+    "correctAnswer": 7
+  },
+  {
+    "id": "corpo-37",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos vértebras lombares tem o humano típico?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "corpo-38",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos dentes molares existem na dentição permanente (incluindo siso)?",
+    "correctAnswer": 12
+  },
+  {
+    "id": "corpo-39",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos milhões de células vermelhas o corpo produz por segundo (ordem de magnitude)?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "corpo-40",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos centímetros tem o útero não gestante em média?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "corpo-41",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos câmaras tem o coração humano?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "corpo-42",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos pares de vértebras torácicas tem o humano?",
+    "correctAnswer": 12
+  },
+  {
+    "id": "corpo-43",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos milhões de sacos alveolares existem nos pulmões (ordem de magnitude)?",
+    "correctAnswer": 300
+  },
+  {
+    "id": "corpo-44",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos dentes caninos existem na dentição permanente?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "corpo-45",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos anos a medula óssea leva para renovar o esqueleto em média?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "corpo-46",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos milhões de unidades de odor o nariz humano pode distinguir (ordem de magnitude moderna)?",
+    "correctAnswer": 1
+  },
+  {
+    "id": "corpo-47",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos centímetros tem o esôfago adulto em média?",
+    "correctAnswer": 25
+  },
+  {
+    "id": "corpo-48",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos milhões de gotículas de saliva o corpo produz por dia (ordem de magnitude)?",
+    "correctAnswer": 1
+  },
+  {
+    "id": "corpo-49",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos vértebras sacrais fundidas formam o sacro típico?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "corpo-50",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos cromossomos sexuais XX uma mulher tem em cada célula diploide?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "filmes-01",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi lançado Star Wars: Uma Nova Esperança?",
+    "correctAnswer": 1977
+  },
+  {
+    "id": "filmes-02",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano foi lançado Titanic?",
+    "correctAnswer": 1997
+  },
+  {
+    "id": "filmes-03",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi lançado O Poderoso Chefão?",
+    "correctAnswer": 1972
+  },
+  {
+    "id": "filmes-04",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos Oscars no total o filme Titanic ganhou?",
+    "correctAnswer": 11
+  },
+  {
+    "id": "filmes-05",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano foi lançado Matrix?",
+    "correctAnswer": 1999
+  },
+  {
+    "id": "filmes-06",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano foi lançado Jurassic Park?",
+    "correctAnswer": 1993
+  },
+  {
+    "id": "filmes-07",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi lançado Avatar?",
+    "correctAnswer": 2009
+  },
+  {
+    "id": "filmes-08",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos minutos dura aproximadamente Vingadores: Ultimato?",
+    "correctAnswer": 181
+  },
+  {
+    "id": "filmes-09",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi lançado De Volta para o Futuro?",
+    "correctAnswer": 1985
+  },
+  {
+    "id": "filmes-10",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano foi lançado Rei Leão (animação original)?",
+    "correctAnswer": 1994
+  },
+  {
+    "id": "filmes-11",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos filmes compõem a trilogia original do Senhor dos Anéis?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "filmes-12",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Em que ano foi lançado Harry Potter e a Pedra Filosofal?",
+    "correctAnswer": 2001
+  },
+  {
+    "id": "filmes-13",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos filmes principais tem a saga Harry Potter?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "filmes-14",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano foi lançado Pantera Negra (MCU)?",
+    "correctAnswer": 2018
+  },
+  {
+    "id": "filmes-15",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi lançado Cidade de Deus?",
+    "correctAnswer": 2002
+  },
+  {
+    "id": "filmes-16",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos Oscars de Melhor Filme Parasita ganhou?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "filmes-17",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi lançado Interestelar?",
+    "correctAnswer": 2014
+  },
+  {
+    "id": "filmes-18",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano foi lançado Gladiador?",
+    "correctAnswer": 2000
+  },
+  {
+    "id": "filmes-19",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos filmes tem a trilogia clássica de Indiana Jones até 1989?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "filmes-20",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Em que ano foi lançado Forrest Gump?",
+    "correctAnswer": 1994
+  },
+  {
+    "id": "filmes-21",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano foi lançado Toy Story?",
+    "correctAnswer": 1995
+  },
+  {
+    "id": "filmes-22",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos filmes tem a trilogia original Matrix?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "filmes-23",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi lançado Homem-Aranha (Sam Raimi)?",
+    "correctAnswer": 2002
+  },
+  {
+    "id": "filmes-24",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Em que ano foi lançado O Senhor dos Anéis: A Sociedade do Anel?",
+    "correctAnswer": 2001
+  },
+  {
+    "id": "filmes-25",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos minutos dura aproximadamente O Senhor dos Anéis: O Retorno do Rei (versão cinema)?",
+    "correctAnswer": 201
+  },
+  {
+    "id": "filmes-26",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano foi lançado Frozen?",
+    "correctAnswer": 2013
+  },
+  {
+    "id": "filmes-27",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi lançado Os Incríveis?",
+    "correctAnswer": 2004
+  },
+  {
+    "id": "filmes-28",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos filmes tem a saga principal Rocky até Rocky V?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "filmes-29",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano foi lançado Mad Max: Estrada da Fúria?",
+    "correctAnswer": 2015
+  },
+  {
+    "id": "filmes-30",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano foi lançado Django Livre?",
+    "correctAnswer": 2012
+  },
+  {
+    "id": "filmes-31",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos Oscars no total A Forma da Água ganhou?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "filmes-32",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Em que ano foi lançado Top Gun: Maverick?",
+    "correctAnswer": 2022
+  },
+  {
+    "id": "filmes-33",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi lançado Barbie (filme de Greta Gerwig)?",
+    "correctAnswer": 2023
+  },
+  {
+    "id": "filmes-34",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos filmes tem a trilogia de Christopher Nolan Batman?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "filmes-35",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Em que ano foi lançado Wakanda Forever?",
+    "correctAnswer": 2022
+  },
+  {
+    "id": "filmes-36",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Em que ano foi lançado Homem de Ferro (primeiro filme MCU)?",
+    "correctAnswer": 2008
+  },
+  {
+    "id": "filmes-37",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos filmes tem a saga principal Velozes e Furiosos até F9 (nono)?",
+    "correctAnswer": 9
+  },
+  {
+    "id": "filmes-38",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Em que ano foi lançado Shrek?",
+    "correctAnswer": 2001
+  },
+  {
+    "id": "filmes-39",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi lançado Procurando Nemo?",
+    "correctAnswer": 2003
+  },
+  {
+    "id": "filmes-40",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos minutos dura aproximadamente Vingadores: Guerra Infinita?",
+    "correctAnswer": 149
+  },
+  {
+    "id": "filmes-41",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Em que ano foi lançado Whiplash?",
+    "correctAnswer": 2014
+  },
+  {
+    "id": "filmes-42",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano foi lançado A Origem?",
+    "correctAnswer": 2010
+  },
+  {
+    "id": "filmes-43",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos filmes tem a trilogia do Hobbit?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "filmes-44",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Em que ano foi lançado Coringa (Todd Phillips)?",
+    "correctAnswer": 2019
+  },
+  {
+    "id": "filmes-45",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Em que ano foi lançado Duna: Parte Dois?",
+    "correctAnswer": 2024
+  },
+  {
+    "id": "filmes-46",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos Oscars no total O Silêncio dos Inocentes ganhou?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "filmes-47",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Em que ano foi lançado Pulp Fiction?",
+    "correctAnswer": 1994
+  },
+  {
+    "id": "filmes-48",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Em que ano foi lançado E.T. – O Extraterrestre?",
+    "correctAnswer": 1982
+  },
+  {
+    "id": "filmes-49",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos filmes tem a trilogia De Volta para o Futuro?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "filmes-50",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Em que ano foi lançado Oppenheimer?",
+    "correctAnswer": 2023
+  },
+  {
+    "id": "esportes-01",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem em campo no futebol de campo?",
+    "correctAnswer": 11
+  },
+  {
+    "id": "esportes-02",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem em quadra no basquete?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "esportes-03",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos sets são necessários para vencer uma partida masculina de Grand Slam no melhor de 5?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "esportes-04",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos rounds tem uma luta principal de boxe masculino profissional clássica?",
+    "correctAnswer": 12
+  },
+  {
+    "id": "esportes-05",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no rugby union em campo?",
+    "correctAnswer": 15
+  },
+  {
+    "id": "esportes-06",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos minutos tem um tempo regulamentar de futebol?",
+    "correctAnswer": 45
+  },
+  {
+    "id": "esportes-07",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos metros tem uma pista de atletismo padrão?",
+    "correctAnswer": 400
+  },
+  {
+    "id": "esportes-08",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no vôlei em quadra?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "esportes-09",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos sets vence quem ganha uma partida de vôlei masculino internacional?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "esportes-10",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos buracos tem uma rodada padrão de golfe?",
+    "correctAnswer": 18
+  },
+  {
+    "id": "esportes-11",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no handebol em quadra?",
+    "correctAnswer": 7
+  },
+  {
+    "id": "esportes-12",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos minutos tem cada quarto na NBA?",
+    "correctAnswer": 12
+  },
+  {
+    "id": "esportes-13",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no futsal em quadra?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "esportes-14",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos metros tem a distância da maratona olímpica?",
+    "correctAnswer": 42195
+  },
+  {
+    "id": "esportes-15",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no beisebol em campo?",
+    "correctAnswer": 9
+  },
+  {
+    "id": "esportes-16",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos innings tem um jogo completo de beisebol MLB padrão?",
+    "correctAnswer": 9
+  },
+  {
+    "id": "esportes-17",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no hóquei no gelo em quadra?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "esportes-18",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos minutos tem um período no hóquei no gelo NHL?",
+    "correctAnswer": 20
+  },
+  {
+    "id": "esportes-19",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no polo aquático em quadra?",
+    "correctAnswer": 7
+  },
+  {
+    "id": "esportes-20",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos quilômetros tem aproximadamente uma meia maratona?",
+    "correctAnswer": 21
+  },
+  {
+    "id": "esportes-21",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no futebol americano em campo?",
+    "correctAnswer": 11
+  },
+  {
+    "id": "esportes-22",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no lacrosse em campo masculino?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "esportes-23",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos metros tem a distância dos 100 metros rasos?",
+    "correctAnswer": 100
+  },
+  {
+    "id": "esportes-24",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos pontos vale um touchdown no futebol americano?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "esportes-25",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no críquete em campo?",
+    "correctAnswer": 11
+  },
+  {
+    "id": "esportes-26",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos sets vence quem ganha uma partida de tênis feminino em Grand Slam (melhor de 3)?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "esportes-27",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos minutos tem o prolongamento padrão no futebol de copa (prorrogação por tempo)?",
+    "correctAnswer": 30
+  },
+  {
+    "id": "esportes-28",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no softbol em campo?",
+    "correctAnswer": 9
+  },
+  {
+    "id": "esportes-29",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos metros tem a altura interna da trave do gol de futebol (travessão)?",
+    "correctAnswer": 2.44
+  },
+  {
+    "id": "esportes-30",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos metros tem a largura interna do gol de futebol entre as traves?",
+    "correctAnswer": 7.32
+  },
+  {
+    "id": "esportes-31",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no netball em quadra?",
+    "correctAnswer": 7
+  },
+  {
+    "id": "esportes-32",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos quilômetros tem a prova de 10 km?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "esportes-33",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no floorball em quadra?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "esportes-34",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos minutos tem cada tempo no futebol de salão FIFA?",
+    "correctAnswer": 20
+  },
+  {
+    "id": "esportes-35",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no ultimate frisbee em campo?",
+    "correctAnswer": 7
+  },
+  {
+    "id": "esportes-36",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos metros tem a distância dos 400 metros rasos?",
+    "correctAnswer": 400
+  },
+  {
+    "id": "esportes-37",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no kabaddi em quadra?",
+    "correctAnswer": 7
+  },
+  {
+    "id": "esportes-38",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos minutos tem o intervalo no futebol entre os tempos?",
+    "correctAnswer": 15
+  },
+  {
+    "id": "esportes-39",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no curling em pedra?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "esportes-40",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos ends tem uma partida padrão de curling em campeonato?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "esportes-41",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no snooker na mesa?",
+    "correctAnswer": 1
+  },
+  {
+    "id": "esportes-42",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantas bolas vermelhas há no início de um frame de snooker?",
+    "correctAnswer": 15
+  },
+  {
+    "id": "esportes-43",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no waterpolo em piscina olímpica?",
+    "correctAnswer": 7
+  },
+  {
+    "id": "esportes-44",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos minutos tem cada período no waterpolo masculino?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "esportes-45",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no futebol de areia em quadra?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "esportes-46",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos minutos tem cada tempo no rugby union profissional?",
+    "correctAnswer": 40
+  },
+  {
+    "id": "esportes-47",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no futebol gaélico em campo?",
+    "correctAnswer": 15
+  },
+  {
+    "id": "esportes-48",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos metros tem a distância dos 800 metros na pista?",
+    "correctAnswer": 800
+  },
+  {
+    "id": "esportes-49",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos jogadores cada time tem no hóquei em campo em campo?",
+    "correctAnswer": 11
+  },
+  {
+    "id": "esportes-50",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos minutos tem cada quarto no futebol americano universitário?",
+    "correctAnswer": 15
+  },
+  {
+    "id": "comida-01",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos graus Celsius assa-se em média um bolo caseiro no forno?",
+    "correctAnswer": 180
+  },
+  {
+    "id": "comida-02",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos ingredientes básicos tem a maionese tradicional (óleo, ovo, limão, sal)?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "comida-03",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos por cento de água tem aproximadamente um tomate maduro?",
+    "correctAnswer": 95
+  },
+  {
+    "id": "comida-04",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos gramas de proteína tem aproximadamente 100 g de frango grelhado?",
+    "correctAnswer": 31
+  },
+  {
+    "id": "comida-05",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos minutos cozinha-se um ovo cozido médio (água fervente, aprox.)?",
+    "correctAnswer": 9
+  },
+  {
+    "id": "comida-06",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos tipos de sabores básicos o paladar humano reconhece classicamente?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "comida-07",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos kcal tem aproximadamente 100 g de arroz branco cozido?",
+    "correctAnswer": 130
+  },
+  {
+    "id": "comida-08",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos graus Celsius a água ferve ao nível do mar?",
+    "correctAnswer": 100
+  },
+  {
+    "id": "comida-09",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos gramas de açúcar tem aproximadamente um refrigerante lata 350 ml?",
+    "correctAnswer": 35
+  },
+  {
+    "id": "comida-10",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos miligramas de sódio tem aproximadamente 5 g de sal de cozinha?",
+    "correctAnswer": 2000
+  },
+  {
+    "id": "comida-11",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos kcal tem aproximadamente 100 g de banana?",
+    "correctAnswer": 89
+  },
+  {
+    "id": "comida-12",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos gramas de carboidrato tem aproximadamente 100 g de batata cozida?",
+    "correctAnswer": 20
+  },
+  {
+    "id": "comida-13",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos minutos leva para assar um frango inteiro médio no forno (aprox.)?",
+    "correctAnswer": 90
+  },
+  {
+    "id": "comida-14",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos por cento de gordura tem aproximadamente o leite integral?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "comida-15",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos kcal tem aproximadamente 100 g de chocolate ao leite?",
+    "correctAnswer": 535
+  },
+  {
+    "id": "comida-16",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos gramas de fibra recomenda-se por dia para adultos (aprox.)?",
+    "correctAnswer": 25
+  },
+  {
+    "id": "comida-17",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos litros de água por dia recomenda-se beber em média (adulto, aprox.)?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "comida-18",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos gramas de proteína tem aproximadamente 100 g de feijão cozido?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "comida-19",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos kcal tem aproximadamente 100 g de abacate?",
+    "correctAnswer": 160
+  },
+  {
+    "id": "comida-20",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos por cento de cacau costuma ter chocolate ao leite comercial?",
+    "correctAnswer": 30
+  },
+  {
+    "id": "comida-21",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos gramas de açúcar tem aproximadamente 100 g de mel?",
+    "correctAnswer": 82
+  },
+  {
+    "id": "comida-22",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos kcal tem aproximadamente 100 g de queijo minas frescal?",
+    "correctAnswer": 264
+  },
+  {
+    "id": "comida-23",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos minutos ferve-se macarrão al dente em média?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "comida-24",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos gramas de proteína tem aproximadamente 100 g de salmão cozido?",
+    "correctAnswer": 25
+  },
+  {
+    "id": "comida-25",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos kcal tem aproximadamente 100 g de arroz integral cozido?",
+    "correctAnswer": 111
+  },
+  {
+    "id": "comida-26",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos por cento de um ovo é a clara aproximadamente em peso?",
+    "correctAnswer": 60
+  },
+  {
+    "id": "comida-27",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos gramas de carboidrato tem aproximadamente 100 g de pão francês?",
+    "correctAnswer": 58
+  },
+  {
+    "id": "comida-28",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos kcal tem aproximadamente 100 g de brócolis cozido?",
+    "correctAnswer": 35
+  },
+  {
+    "id": "comida-29",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos gramas de gordura tem aproximadamente 100 g de amendoim torrado?",
+    "correctAnswer": 49
+  },
+  {
+    "id": "comida-30",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos kcal tem aproximadamente 100 g de carne moída magra cozida?",
+    "correctAnswer": 250
+  },
+  {
+    "id": "comida-31",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos miligramas de cafeína tem aproximadamente um café expresso duplo?",
+    "correctAnswer": 120
+  },
+  {
+    "id": "comida-32",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos gramas de proteína tem aproximadamente 100 g de iogurte natural?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "comida-33",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos kcal tem aproximadamente 100 g de maçã?",
+    "correctAnswer": 52
+  },
+  {
+    "id": "comida-34",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos gramas de carboidrato tem aproximadamente 100 g de aveia em flocos?",
+    "correctAnswer": 66
+  },
+  {
+    "id": "comida-35",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos kcal tem aproximadamente 100 g de batata frita de fast-food?",
+    "correctAnswer": 312
+  },
+  {
+    "id": "comida-36",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos gramas de proteína tem aproximadamente 100 g de atum em lata?",
+    "correctAnswer": 26
+  },
+  {
+    "id": "comida-37",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos kcal tem aproximadamente 100 g de melancia?",
+    "correctAnswer": 30
+  },
+  {
+    "id": "comida-38",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos gramas de açúcar tem aproximadamente 100 g de sorvete de baunilha?",
+    "correctAnswer": 21
+  },
+  {
+    "id": "comida-39",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos kcal tem aproximadamente 100 g de tapioca pura (fecula)?",
+    "correctAnswer": 358
+  },
+  {
+    "id": "comida-40",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos gramas de carboidrato tem aproximadamente 100 g de inhame cozido?",
+    "correctAnswer": 28
+  },
+  {
+    "id": "comida-41",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos kcal tem aproximadamente 100 g de morango?",
+    "correctAnswer": 32
+  },
+  {
+    "id": "comida-42",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos gramas de proteína tem aproximadamente 100 g de lentilha cozida?",
+    "correctAnswer": 9
+  },
+  {
+    "id": "comida-43",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos kcal tem aproximadamente 100 g de manga?",
+    "correctAnswer": 60
+  },
+  {
+    "id": "comida-44",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos gramas de gordura tem aproximadamente 100 g de castanha-do-pará?",
+    "correctAnswer": 67
+  },
+  {
+    "id": "comida-45",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos kcal tem aproximadamente 100 g de cuscuz cozido?",
+    "correctAnswer": 112
+  },
+  {
+    "id": "comida-46",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos gramas de carboidrato tem aproximadamente 100 g de tangerina?",
+    "correctAnswer": 13
+  },
+  {
+    "id": "comida-47",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos kcal tem aproximadamente 100 g de peito de peru fatiado?",
+    "correctAnswer": 104
+  },
+  {
+    "id": "comida-48",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos gramas de proteína tem aproximadamente 100 g de tofu?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "comida-49",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos kcal tem aproximadamente 100 g de uva?",
+    "correctAnswer": 69
+  },
+  {
+    "id": "comida-50",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos gramas de fibra tem aproximadamente 100 g de aveia?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "geografia-01",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos estados tem o Brasil?",
+    "correctAnswer": 26
+  },
+  {
+    "id": "geografia-02",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos fusos horários oficiais o Brasil tinha até 2013?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "geografia-03",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos mil quilômetros tem a extensão aproximada do Brasil de norte a sul?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "geografia-04",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos países fazem fronteira com o Brasil?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "geografia-05",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos milhões de km² tem a área do Brasil aproximadamente?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "geografia-06",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos milhões de habitantes tem o Japão aproximadamente?",
+    "correctAnswer": 125
+  },
+  {
+    "id": "geografia-07",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos milhões de km² tem a Rússia aproximadamente?",
+    "correctAnswer": 17
+  },
+  {
+    "id": "geografia-08",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos mil quilômetros tem a extensão aproximada da China de leste a oeste?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "geografia-09",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos países existem na União Europeia em 2024 (aprox.)?",
+    "correctAnswer": 27
+  },
+  {
+    "id": "geografia-10",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Qual a altitude aproximada de La Paz, Bolívia, em metros?",
+    "correctAnswer": 3500
+  },
+  {
+    "id": "geografia-11",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos mil quilômetros tem a costa marítima do Brasil aproximadamente?",
+    "correctAnswer": 7
+  },
+  {
+    "id": "geografia-12",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos milhões de habitantes tem os Estados Unidos aproximadamente?",
+    "correctAnswer": 330
+  },
+  {
+    "id": "geografia-13",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos países existem na América do Sul?",
+    "correctAnswer": 12
+  },
+  {
+    "id": "geografia-14",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Qual a altitude aproximada do Monte Everest em metros?",
+    "correctAnswer": 8849
+  },
+  {
+    "id": "geografia-15",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos milhões de km² tem o Canadá aproximadamente?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "geografia-16",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos milhões de habitantes tem a Índia aproximadamente?",
+    "correctAnswer": 1400
+  },
+  {
+    "id": "geografia-17",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos fusos horários a Rússia atravessa aproximadamente?",
+    "correctAnswer": 11
+  },
+  {
+    "id": "geografia-18",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos mil quilômetros tem a Amazônia de extensão leste-oeste aproximada?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "geografia-19",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos milhões de km² tem a Austrália aproximadamente?",
+    "correctAnswer": 7
+  },
+  {
+    "id": "geografia-20",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos países existem na África?",
+    "correctAnswer": 54
+  },
+  {
+    "id": "geografia-21",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Qual a profundidade aproximada da Fossa das Marianas em metros?",
+    "correctAnswer": 11000
+  },
+  {
+    "id": "geografia-22",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos milhões de habitantes tem a Indonésia aproximadamente?",
+    "correctAnswer": 270
+  },
+  {
+    "id": "geografia-23",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos países existem na Oceania reconhecidos pela ONU (aprox.)?",
+    "correctAnswer": 14
+  },
+  {
+    "id": "geografia-24",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos mil quilômetros tem o rio Amazonas aproximadamente?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "geografia-25",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos milhões de km² tem a Antártida aproximadamente?",
+    "correctAnswer": 14
+  },
+  {
+    "id": "geografia-26",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Qual a altitude aproximada do Aconcágua em metros?",
+    "correctAnswer": 6961
+  },
+  {
+    "id": "geografia-27",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos milhões de habitantes tem o México aproximadamente?",
+    "correctAnswer": 126
+  },
+  {
+    "id": "geografia-28",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos países existem na América Central (sem México)?",
+    "correctAnswer": 7
+  },
+  {
+    "id": "geografia-29",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos mil quilômetros tem o rio Nilo aproximadamente?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "geografia-30",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos milhões de km² tem os Estados Unidos contíguos aproximadamente?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "geografia-31",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Qual a altitude aproximada do Kilimanjaro em metros?",
+    "correctAnswer": 5895
+  },
+  {
+    "id": "geografia-32",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos milhões de habitantes tem a Nigéria aproximadamente?",
+    "correctAnswer": 220
+  },
+  {
+    "id": "geografia-33",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos países existem na América do Norte (incluindo Caribe reconhecido ONU, aprox.)?",
+    "correctAnswer": 23
+  },
+  {
+    "id": "geografia-34",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos mil quilômetros tem o deserto do Saara de leste a oeste aproximadamente?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "geografia-35",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos milhões de km² tem a Argentina aproximadamente?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "geografia-36",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Qual a altitude aproximada do Monte Fuji em metros?",
+    "correctAnswer": 3776
+  },
+  {
+    "id": "geografia-37",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos milhões de habitantes tem o Egito aproximadamente?",
+    "correctAnswer": 110
+  },
+  {
+    "id": "geografia-38",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos países existem na Europa reconhecidos pela ONU (aprox.)?",
+    "correctAnswer": 44
+  },
+  {
+    "id": "geografia-39",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos mil quilômetros tem a extensão aproximada dos Andes?",
+    "correctAnswer": 7
+  },
+  {
+    "id": "geografia-40",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos milhões de habitantes tem a Alemanha aproximadamente?",
+    "correctAnswer": 84
+  },
+  {
+    "id": "geografia-41",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Qual a altitude aproximada de Quito, Equador, em metros?",
+    "correctAnswer": 2850
+  },
+  {
+    "id": "geografia-42",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos milhões de km² tem a França metropolitana aproximadamente?",
+    "correctAnswer": 0.55
+  },
+  {
+    "id": "geografia-43",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos milhões de habitantes tem o Bangladesh aproximadamente?",
+    "correctAnswer": 170
+  },
+  {
+    "id": "geografia-44",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos países existem na Ásia (aprox.)?",
+    "correctAnswer": 48
+  },
+  {
+    "id": "geografia-45",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos mil quilômetros tem o rio Yangtzé aproximadamente?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "geografia-46",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos milhões de km² tem a Groenlândia aproximadamente?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "geografia-47",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Qual a altitude aproximada do Monte Denali em metros?",
+    "correctAnswer": 6190
+  },
+  {
+    "id": "geografia-48",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos milhões de habitantes tem a Itália aproximadamente?",
+    "correctAnswer": 59
+  },
+  {
+    "id": "geografia-49",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos mil quilômetros tem o rio Mississippi-Missouri combinado aproximadamente?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "geografia-50",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos milhões de habitantes tem a China aproximadamente?",
+    "correctAnswer": 1400
+  },
+  {
+    "id": "ciencia-01",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos elementos químicos a tabela periódica atual possui oficialmente?",
+    "correctAnswer": 118
+  },
+  {
+    "id": "ciencia-02",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Qual o número atômico do carbono?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "ciencia-03",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos elétrons cabem no primeiro nível de energia do hidrogênio?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "ciencia-04",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos graus Celsius a água ferve ao nível do mar?",
+    "correctAnswer": 100
+  },
+  {
+    "id": "ciencia-05",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos pares de elétrons compartilhados formam uma ligação tripla?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "ciencia-06",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos lados tem um hexágono?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "ciencia-07",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos graus tem a soma dos ângulos internos de um triângulo?",
+    "correctAnswer": 180
+  },
+  {
+    "id": "ciencia-08",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos segundos tem um minuto?",
+    "correctAnswer": 60
+  },
+  {
+    "id": "ciencia-09",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantas casas decimais aparecem no número pi arredondado como 3.14?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "ciencia-10",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos lados tem um pentágono?",
+    "correctAnswer": 5
+  },
+  {
+    "id": "ciencia-11",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Qual o número atômico do ouro?",
+    "correctAnswer": 79
+  },
+  {
+    "id": "ciencia-12",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos elétrons tem um átomo de hélio neutro?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "ciencia-13",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos átomos de hidrogênio tem uma molécula de metano?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "ciencia-14",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos graus Celsius é o zero absoluto?",
+    "correctAnswer": -273
+  },
+  {
+    "id": "ciencia-15",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos cromossomos tem uma célula humana haplóide?",
+    "correctAnswer": 23
+  },
+  {
+    "id": "ciencia-16",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantas bases nitrogenadas diferentes existem no DNA?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "ciencia-17",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos tipos de sangue principais existem no sistema ABO?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "ciencia-18",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos elétrons no orbital mais externo do sódio neutro?",
+    "correctAnswer": 1
+  },
+  {
+    "id": "ciencia-19",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos lados tem um octógono?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "ciencia-20",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos minutos tem uma hora?",
+    "correctAnswer": 60
+  },
+  {
+    "id": "ciencia-21",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Qual o número atômico do ferro?",
+    "correctAnswer": 26
+  },
+  {
+    "id": "ciencia-22",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos átomos de oxigênio tem uma molécula de ozônio?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "ciencia-23",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos litros tem um metro cúbico?",
+    "correctAnswer": 1000
+  },
+  {
+    "id": "ciencia-24",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos graus tem um ângulo reto?",
+    "correctAnswer": 90
+  },
+  {
+    "id": "ciencia-25",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos elétrons compartilhados numa ligação dupla simples?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "ciencia-26",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos planetas rochosos existem no Sistema Solar?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "ciencia-27",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos mil km/s tem aproximadamente a velocidade da luz?",
+    "correctAnswer": 300
+  },
+  {
+    "id": "ciencia-28",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos elétrons tem o íon Mg2+ se partiu de magnésio neutro?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "ciencia-29",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantas leis de Newton são clássicas na mecânica?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "ciencia-30",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos átomos de carbono tem o etanol comum?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "ciencia-31",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Qual o número atômico do urânio mais comum na natureza (U-238)?",
+    "correctAnswer": 92
+  },
+  {
+    "id": "ciencia-32",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos elétrons tem um átomo de carbono neutro?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "ciencia-33",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos milhões de graus Celsius tem o núcleo do Sol aproximadamente?",
+    "correctAnswer": 15
+  },
+  {
+    "id": "ciencia-34",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos átomos de hidrogênio tem uma molécula de água?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "ciencia-35",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos lados tem um quadrilátero?",
+    "correctAnswer": 4
+  },
+  {
+    "id": "ciencia-36",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos elétrons no orbital mais externo do cloro neutro?",
+    "correctAnswer": 7
+  },
+  {
+    "id": "ciencia-37",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos graus Celsius é o ponto de fusão da água pura ao nível do mar?",
+    "correctAnswer": 0
+  },
+  {
+    "id": "ciencia-38",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos átomos de nitrogênio tem uma molécula de N2?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "ciencia-39",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos mil metros por segundo é a gravidade padrão aproximada?",
+    "correctAnswer": 10
+  },
+  {
+    "id": "ciencia-40",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos elétrons tem um átomo de nitrogênio neutro?",
+    "correctAnswer": 7
+  },
+  {
+    "id": "ciencia-41",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Qual o número atômico da prata?",
+    "correctAnswer": 47
+  },
+  {
+    "id": "ciencia-42",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Quantos elétrons tem um átomo de oxigênio neutro?",
+    "correctAnswer": 8
+  },
+  {
+    "id": "ciencia-43",
+    "image": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif",
+    "questionText": "Quantos átomos de carbono tem o benzeno?",
+    "correctAnswer": 6
+  },
+  {
+    "id": "ciencia-44",
+    "image": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "questionText": "Quantos segundos tem uma hora?",
+    "correctAnswer": 3600
+  },
+  {
+    "id": "ciencia-45",
+    "image": "https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif",
+    "questionText": "Quantos elétrons tem um átomo de alumínio neutro?",
+    "correctAnswer": 13
+  },
+  {
+    "id": "ciencia-46",
+    "image": "https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif",
+    "questionText": "Quantos átomos de oxigênio tem uma molécula de gás carbônico?",
+    "correctAnswer": 2
+  },
+  {
+    "id": "ciencia-47",
+    "image": "https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif",
+    "questionText": "Quantos graus tem a soma dos ângulos internos de um quadrado?",
+    "correctAnswer": 360
+  },
+  {
+    "id": "ciencia-48",
+    "image": "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+    "questionText": "Quantos elétrons tem um átomo de fósforo neutro?",
+    "correctAnswer": 15
+  },
+  {
+    "id": "ciencia-49",
+    "image": "https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif",
+    "questionText": "Quantos átomos de hidrogênio tem o amoníaco?",
+    "correctAnswer": 3
+  },
+  {
+    "id": "ciencia-50",
+    "image": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
+    "questionText": "Qual o número atômico do chumbo?",
+    "correctAnswer": 82
   }
 ]
